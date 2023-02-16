@@ -2,7 +2,7 @@ FROM python:3.8
 
 ENV PYTHONUNBUFFERED 1
 
-WORKDIR /home/ubuntu/Adil-Ilyas/actions-runner/_work/adil-ilyas/adil-ilyas
+WORKDIR /home/ubuntu/Adil-Ilyas/actions-runner/_work/adil-ilyas/adil-ilyas/django-main/devsearch
 
 COPY . .
 
